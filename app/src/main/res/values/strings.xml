@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ganpat_kotlin_App</string>
+    <string name="vishal">Vishal</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_here">Login Here</string>
+    <string name="username">UserName</string>
+    <string name="passwords">Passwords</string>
+    <string name="login">Login</string>
+</resources>
